@@ -9,6 +9,7 @@ Password: <input type="shiva" name="email"><br>
 Mobile_number: <input type="sindhu" name="email"><br>
 aws: <input type="text" name="email"><br>
 aws_devops: <input type="text" name="email"><br>
+sindhu_notpractising: <input type="text" name="email"><br>
 <input type="submit">
 </form>
 </body>
